@@ -1,6 +1,7 @@
 === CKEditor Shortcode  ===
 
 Contributors: Yogesh Joshi
+
 Tags: CKEditor, shortcode, wysiwyg, text editor, wordpress editor  
 Requires at least: 5.0  
 Tested up to: 6.4  
