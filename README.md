@@ -82,12 +82,10 @@ Edit `ckeditor-init.js` and modify the `toolbar` settings.
 this version adds **self-hosted CKEditor support** and **Kama theme UI**.
 
 == Screenshots ==
-1. CKEditor in action  
-2. Shortcode usage  
-3. Kama theme applied  
+1. ![CKEditor in action  ](https://snipboard.io/vftpYz.jpg)
+2. ![Shortcode usage  ](https://snipboard.io/5Jb8z7.jpg)
+ 
 
 == License & Credits ==
-Here’s the corrected version with **GPL-3.0**:  
-
 **This plugin is open-source under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html).**  
 Credits: **[CKEditor Team](https://ckeditor.com)**  
