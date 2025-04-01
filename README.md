@@ -6,7 +6,7 @@ Tags: CKEditor, shortcode, wysiwyg, text editor, wordpress editor
 Requires at least: 5.0  
 Tested up to: 6.4  
 Requires PHP: 7.4  
-Stable tag: 1.1  
+Stable tag: 1.0.0
 License: GNU3
 Github : https://github.com/yogesh-joshi-0333/wp-ckeditor-shortcode
 Website : https://devyogesh.com/wp-ckeditor-shortcode/  
